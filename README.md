@@ -5,14 +5,13 @@ This repository contains my weekly tasks, assessments, and final project complet
 ## 📌 About the Internship
 * **Organization:** InternSpark
 * **Domain:** Artificial Intelligence (Advanced)
-* **Duration:** [Insert Duration, e.g., 4 Weeks / 8 Weeks]
+* **Duration:** 1 month
 * **Key Focus Areas:** Machine Learning, Neural Networks, Computer Vision, and NLP.
 
 ## 📂 Repository Structure
-* `/Task-1/` - [Name of Task 1, e.g., Data Preprocessing & EDA]
-* `/Task-2/` - [Name of Task 2, e.g., Building a Predictive Model]
-* `/Final-Project/` - Core AI Capstone Project
-
+* `/Task-1/` - ML Classification Model.ipynb
+* `/Task-2/` - 
+* `/Final-Project/` - 
 ## 🛠️ Technologies Used
 * **Language:** Python
 * **Libraries:** TensorFlow / PyTorch, Keras, NumPy, Pandas, Scikit-Learn
